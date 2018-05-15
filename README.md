@@ -1,5 +1,7 @@
 # RandomScripts
 
-DnDSpellsParse.csx - parses www.dnd-spells.com for spells
+To run these scripts use [dotnet script](https://github.com/filipw/dotnet-script)
 
-Translator.csx - parses translate.google.com
+[DnDSpellsParse.csx](DnDSpellsParse.csx) - parses [dnd-spells.com](https://www.dnd-spells.com/spells) for spells
+
+[Translator.csx](Translator.csx) - parses translate.google.com
